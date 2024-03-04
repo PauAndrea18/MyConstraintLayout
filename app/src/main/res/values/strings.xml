@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Constraint Layout</string>
+
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+
+    <string name="publicacion_label">SOLICITUD DE TRANSPORTE DE CARGA</string>
+    <string name="tipo_label">Tipo de carga:</string>
+    <string name="peso_label">Peso:</string>
+    <string name="unidadPeso_label">Kg</string>
+    <string name="dimensiones_label">Dimensiones:</string>
+    <string name="unidadDistancia_hint">m</string>
+    <string name="x_label">X</string>
+    <string name="lugarOrigen_label">Dirección origen:</string>
+    <string name="lugarDestino_label">Dirección destino:</string>
+    <string name="ciudad_hint">Ciudad</string>
+    <string name="fechaRecogida_hint">Fecha recogida</string>
+    <string name="fechaEntrega_hint">Fecha entrega</string>
+    <string name="hora_hint">Hora</string>
+    <string name="especificaciones_label">Especificaciones adicionales</string>
+    <string name="especificaciones_hint">Aclaraciones adicionales para el transportador</string>
+    <string name="publicar_button">Publicar solicitud</string>
+</resources>
